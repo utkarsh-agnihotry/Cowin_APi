@@ -22,7 +22,7 @@ def findAvailability():
             print(each["pincode"])
             print(each["vaccine"])
             print(each["available_capacity"])
-            playsound('C:/Users/utkarsh.agni/Desktop/iphone_whatsapp_20161.mp3')
+            playsound('C:/Users/utkarsh.agni/Desktop/ping.mp3')
             return True
     if(counter == 0):
         print("No Available Slots")
